@@ -17,4 +17,4 @@ It should display a J when entering the code 6531
 
 ## External hardware
 
-None
+Requires Single-Segment display for displaying output
