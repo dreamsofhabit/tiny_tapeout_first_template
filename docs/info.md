@@ -17,4 +17,4 @@ It should display a J when entering the code 6531
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
